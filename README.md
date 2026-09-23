@@ -14,6 +14,7 @@ También se puede abrir `index.html` de forma local con doble clic en Chrome. Es
 
 - Python 3.11 o superior
 - Conexión a internet (solo para las descargas iniciales: Censo ~500 MB, GeoJSON de comunas y deck.gl)
+- En Windows, clonar el repositorio en una ruta corta (por ejemplo `C:\proyecto`). Las rutas muy largas pueden hacer fallar `pip install` por el límite de 260 caracteres de Windows (`WinError 206`).
 
 ### Pasos
 

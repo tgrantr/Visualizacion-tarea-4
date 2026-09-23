@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32579130/README.md)
 # ¿A dónde migra la gente en Chile?
 
 Visualización de flujos migratorios intercomunales · Censo 2024
